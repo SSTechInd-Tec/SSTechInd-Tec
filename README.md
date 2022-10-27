@@ -2,4 +2,7 @@
 - I'm a Python, C++ and Full Stack Web Developer
 - I’m interested in coding and studying new things
 - I’m currently learning how to code professionally
-- How to reach me on facebook and instagram using this address Stark Bak and on twitter @StarkBakTec and telegram @StarkBak
+- How to reach me on:
+-   facebook and instagram  ```Stark Bak```
+-   twitter                 ```@StarkBakTec```
+-   telegram                ```@StarkBak```
