@@ -1,7 +1,7 @@
 ### Hi there 👋
 * 👂 My name is StarkBak
 * 👩 Pronouns: Bak
-* 🔭 I’m currently working on a institude as a trainer
+* 🔭 I’m currently working on an institude as a developer
 * 🌱 I’m currently learning new technologies like 
 * ❤️ I love <img src="https://cdn3.iconfinder.com/data/icons/basic-ui-elements-2-4-filled-outline-45/512/Basic_UI_Elements_2.4_-_Filled_Outline_-_45-13-16.png"> Coding and <img src="https://cdn1.iconfinder.com/data/icons/education-bright-fill/60/007_-_Chalkboard-16.png"> Teaching
 
