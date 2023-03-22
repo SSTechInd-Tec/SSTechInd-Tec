@@ -11,7 +11,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,wordpress&theme=dark" />
 <h4>Database</h4>
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,redis&theme=dark" />
-<h4>Language's Frameworks</h4>
+<h4>Frameworks</h4>
 <img src="https://skillicons.dev/icons?i=jquery,bootstrap,flask,selenium&theme=dark" />
 <h4>Helping Tools</h4>
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,pycharm&theme=dark" />
