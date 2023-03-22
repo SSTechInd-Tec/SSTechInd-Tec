@@ -8,16 +8,16 @@
 <h4>Programming Languages</h4>
 <img src="https://skillicons.dev/icons?i=py,java,cpp,php" />
 <h4>Web Development</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
 <h4>Database</h4>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,redis" />
 <h4>Language's Frameworks</h4>
-<img src="https://skillicons.dev/icons?i=jquery,bootstrap,flask" />
+<img src="https://skillicons.dev/icons?i=jquery,bootstrap,flask,selenium" />
+<h4>Helping Tools</h4>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,pycharm" />
 
-<h2> 🚀 &nbsp;You Can Stay In Touch With Me Using These Ways</h2>
+<h2> 🚀 &nbsp;Say Hello to Me on!</h2>
 <p>
-  <a href="" target="blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-64.png" alt="Facebook"></a>
-  <a href="https://www.instagram.com/starkbaktec/" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-64.png" alt="Instagram"></a>
-  <a href="https://twitter.com/StarkBakTec" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-64.png" alt="Twitter"></a>
-  <a href="https://t.me/StarkBak" target="blank"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-64.png" alt="Telegram"></a>
+  <a href="https://www.instagram.com/starkbaktec/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
+  <a href="https://twitter.com/StarkBakTec" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
 </p>
