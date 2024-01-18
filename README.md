@@ -27,8 +27,10 @@ Hello there! I'm StarkBak, a seasoned programmer with 4 years of experience in P
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 
   ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white) 
   ![AWT](https://img.shields.io/badge/AWT-007396?style=for-the-badge&logo=java&logoColor=white)
