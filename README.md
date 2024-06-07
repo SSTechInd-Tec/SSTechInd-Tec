@@ -55,9 +55,9 @@ My real name is Mohammad Salim Baktash and I like StarkBak name...
 
 <hr>
 
-| ![Eren Github Stats](https://github-readme-stats.vercel.app/api?username=SSTechInd-Tec&show_icons=true&theme=dark)              | ![Eren GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=echooferen&theme=dark)                          |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echooferen&langs_count=8&theme=dark&layout=compact) | ![Github Stars](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SSTechInd-Tec&theme=dark) |
+| ![Eren Github Stats](https://github-readme-stats.vercel.app/api?username=SSTechInd-Tec&show_icons=true&theme=dark)                 | ![Eren GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SSTechInd-Tec&theme=dark)                       |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSTechInd-Tec&langs_count=8&theme=dark&layout=compact) | ![Github Stars](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SSTechInd-Tec&theme=dark) |
 
 <hr>
 
