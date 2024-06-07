@@ -69,3 +69,20 @@ My real name is Mohammad Salim Baktash and I like StarkBak name...
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
+## GitHub Contribution Graph
+
+[![Eren github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SSTechInd-Tec&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true&)](https://github.com/echooferen/github-readme-activity-graph)
+
+<hr>
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## Github Profile Summary Card
+
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SSTechInd-Tec&theme=dark"  display=block width=100% height=auto  alt="1" >
+</div>
