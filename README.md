@@ -4,7 +4,7 @@
 
 I'm a passionate developer who loves creating innovative solutions to solve real-world problems. I'm currently focusing on Web and Mobile apps development. Along with Web and Mobile apps development I'm also developing new skills in other technologies that I don't know how to use.
 
-- ⚡ Fun fact: My real name is Salim Baktash but I kike StarkBak
+- ⚡ Fun fact: My real name is Salim Baktash but I like StarkBak
 
 ## 🛠️ Technologies & Tools
 
